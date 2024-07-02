@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
 <p align="center">
-  <img src="https://github.com/amarjeetamrat910/amarjeetamrat9100/blob/main/top%20image" alt="Banner Image" width="1000" height="300">
+  <img src="https://github.com/amarjeetamrat910/amarjeetamrat9100/blob/main/top%20image" alt="Banner Image">
 </p>
 <h3 align="center">Passionate Data Science Enthusiast</h3>
 
