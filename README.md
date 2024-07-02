@@ -16,11 +16,14 @@
 </p>
 
 <!-- Bio and Contact Information -->
+<!-- Bio and Contact Information -->
+<h3 align="center">About Me</h3>
 <p align="center">
-  🌱 Currently mastering <strong>Data Science</strong> and <strong>Artificial Intelligence</strong><br>
-  💬 Ask me about <strong>Machine Learning, Deep Learning, NLP, Computer Vision</strong><br>
-  📫 How to reach me: <a href="mailto:amarjeetoracle@gmail.com">amarjeetoracle@gmail.com</a><br>
+  🌟 Passionate about Machine Learning, Deep Learning, NLP, and Computer Vision<br>
+  📚 Skilled in Data Analytics, Visualization, and SQL<br>
+  📧 Contact me: <a href="mailto:amarjeetoracle@gmail.com">amarjeetoracle@gmail.com</a><br>
 </p>
+
 
 <!-- Social Media Links -->
 <h3 align="center">Connect with Me</h3>
