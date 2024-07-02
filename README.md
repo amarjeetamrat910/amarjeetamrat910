@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
+<h3 align="center">Passionate Data Science Enthusiast</h3>
 <p align="center">
   <img src="https://github.com/amarjeetamrat910/amarjeetamrat9100/blob/main/top%20image" alt="Banner Image">
 </p>
-<h3 align="center">Passionate Data Science Enthusiast</h3>
 
 <!-- Profile Views Badge -->
 <p align="center">
@@ -18,7 +18,7 @@
 <!-- Bio and Contact Information -->
 <p align="center">
   🌱 Currently learning <strong>Data Science</strong> and <strong>Artificial Intelligence</strong><br>
-  💬 Ask me about <strong>Data Science, Data Analysis</strong><br>
+  💬 Ask me about <strong>Data Science, Artificial intelligence </strong><br>
   📫 How to reach me: <a href="mailto:amarjeetoracle@gmail.com">amarjeetoracle@gmail.com</a><br>
 </p>
 
@@ -40,20 +40,24 @@
 </p>
 
 <!-- Skills and Tools with Stickers -->
+<!-- Skills and Tools with Stickers -->
+<!-- Skills and Tools with Stickers -->
 <h3 align="center">Skills and Tools</h3>
-<p align="center">
+<p align="center" style="background-color: white; padding: 10px;">
   <!-- Data Science and AI Icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Apache Hadoop" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="120" height="120"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="120" height="120"/>
 </p>
+
+
 
 <!-- GitHub Stats and Language Card -->
 <p align="center">
