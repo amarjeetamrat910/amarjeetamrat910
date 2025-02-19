@@ -1,73 +1,102 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated Coding GIF">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&width=435&lines=Hi!+I'm+Amarjeet+Kumar;Data+Science+Enthusiast+%7C+ML+%7C+AI+%7C+Big+Data" alt="Typing SVG">
-</h1>
-
-## 🚀 **Professional Summary**
-> **Data Science enthusiast** with internship experience at **Bajaj Finserv**, specializing in **Machine Learning, Deep Learning, NLP, and LLM-RAG models**. Proficient in **Python, SQL**, and frameworks like **TensorFlow** and **Scikit-Learn**. Seeking a **Data Science Intern or Junior Data Scientist** role to solve real-world problems.
+## 🚀 **Amarjeet Kumar**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarjeet--kumar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amarjeet-kumar)  
+[![GitHub](https://img.shields.io/badge/GitHub-amarjeetamrat910-black?style=for-the-badge&logo=github)](https://github.com/amarjeetamrat910)  
+📧 Email: amarjeetoracle@gmail.com  
+📱 Mobile: +91-9102354829  
 
 ---
 
-## 🛠 **Skills**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+## 🎬 **Welcome to My GitHub!**  
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" height="200px">  
+
+🔍 Passionate **Data Scientist** with experience in **Machine Learning, Deep Learning, NLP, and Large Language Models (LLM-RAG)**.   
+🚀 Skilled in **Python, SQL, and Data Analytics**, eager to solve real-world problems with AI-driven solutions!  
 
 ---
 
-## 🔥 **Work Experience**
-### **Bajaj Finserv | Data Science Intern** *(July 29, 2024 – September 3, 2024)*  
-📌 Developed a system to **extract and process text from PDFs**, tokenized sentences using **NLTK** for better handling.
-📌 Created a **vector store** with **LangChain Chroma** & used **Google GenerativAI embeddings** for efficient retrieval.
-📌 Integrated **LLM-based Retrieval-Augmented Generation (RAG) Chain** for accurate responses.
+## 💡 **Technical Skills**  
+### 📌 **Programming Languages & Tools:**  
+✅ Python | SQL | Power BI | MS Excel | Tableau | Git | Jupyter Notebook | Oracle Live SQL  
+
+### 📌 **Libraries & Frameworks:**  
+✅ Scikit-Learn | TensorFlow | Pandas | NumPy | Matplotlib | Apache Spark (PySpark) | NLTK | LangChain  
+
+### 📌 **Machine Learning & AI:**  
+✅ Supervised & Unsupervised Learning | Deep Learning | NLP | Computer Vision | Reinforcement Learning  
+
+### 📌 **Big Data & Cloud Technologies:**  
+✅ Apache Spark | Google Cloud AI | AWS Data Analytics  
 
 ---
 
-## 🎓 **Education**
-🎓 **B.Tech in Information Technology** – Chandigarh Group of Colleges, Mohali *(CGPA: 7.4 | Expected: 2025)*
+## 👨‍💻 **Work Experience**  
+### 🏢 **Bajaj Finserv | Data Science Intern**   
+📍 Pune, India (Onsite) | ⏳ July 29, 2024 – September 3, 2024  
+
+**Project: Retrieval-Augmented Generation (RAG) for Document Processing**  
+✅ Extracted and processed text from PDFs efficiently.  
+✅ Split long documents into manageable chunks for better processing.  
+✅ Tokenized text into sentences using **NLTK** for structured analysis.  
+✅ Built a **vector store** using **LangChain Chroma** and **Google Generative AI embeddings** for document retrieval.  
+✅ Configured a **retriever** and integrated a **Large Language Model (LLM)** to generate concise responses.  
+✅ Tested and evaluated model responses for accuracy and efficiency.  
 
 ---
 
-## 🏆 **Projects**
-🔹 **Predictive Maintenance for Industrial Systems** [(GitHub)](https://github.com/amarjeetamrat910)  
-&nbsp;&nbsp;&nbsp;✨ Achieved **98% accuracy** using **LightGBM, Random Forest, and CatBoost**.
-
-🔹 **Sentiment Analysis** [(GitHub)](https://github.com/amarjeetamrat910)  
-&nbsp;&nbsp;&nbsp;✨ Used **TextBlob & Logistic Regression**, achieving **96% accuracy with SVM cross-validation**.
+## 📚 **Education**  
+🎓 **Bachelor of Technology (B.Tech.) in Information Technology**  
+📍 Chandigarh Group of Colleges, Landran Mohali, Punjab  
+📊 **CGPA: 7.4** | 📅 **Expected Graduation: 2025**  
 
 ---
 
-## 💡 **Extracurricular Activities**
-🔸 **Hackfest24 – National Level Hackathon** *(Finalist)* – Developed a **Green Credit Management System**.
-🔸 **Formidium Hackathon** *(Participant)* – Built a **Chatbot for Automated Accounting Report Generation**.
+## 🚀 **Projects**  
+
+### 🔹 **Predictive Maintenance for Industrial Systems** ([GitHub](#))  
+✅ **Data Preprocessing:** Loaded and cleaned large CSV datasets using Pandas.  
+✅ **Feature Engineering:** Handled missing values and encoded categorical variables.  
+✅ **Exploratory Data Analysis (EDA):** Used correlation heatmaps and visualization techniques.  
+✅ **Model Development:** Implemented **LightGBM, Random Forest, and CatBoost** models.  
+✅ **Results:** Achieved **98% accuracy** using LightGBM, outperforming other models.  
+
+### 🔹 **Sentiment Analysis of Tweets** ([GitHub](#))  
+✅ **Data Collection:** Scraped and preprocessed Twitter data.  
+✅ **Sentiment Categorization:** Classified tweets into **positive, negative, or neutral** using TextBlob.  
+✅ **Modeling:** Used **Logistic Regression** and **Support Vector Machines (SVM)** for prediction.  
+✅ **Results:** Achieved **90% accuracy with Logistic Regression** and **96% using SVM with cross-validation**.  
 
 ---
 
-## 📜 **Certifications**
-✅ **Machine Learning & Data Science – GeeksforGeeks**  
-✅ **AWS Data Analytics Certification**  
-✅ **SQL (Basic) Certification – HackerRank**  
-✅ **Data Science Bootcamp – Udemy**  
+## 🏆 **Hackathons & Competitions**  
+
+### 🎯 **Formidium Hackathon | Participant**  
+📍 Jaipur, Rajasthan | 📅 **June 22–23, 2024**  
+✅ **Project:** Developed an AI-powered chatbot for **automated accounting report generation** using an open-source **LLM model**.  
+✅ **Impact:** Improved **efficiency** and **user experience** by automating financial document processing.  
+
+### 🎯 **Hackfest24 – National Level Hackathon | Finalist**  
+📍 CGC Landran, Punjab | 📅 **April 24 – July 2024**  
+✅ **Project:** Designed a **Green Credit Management System** to promote sustainable credit policies.  
+✅ **Achievement:** Reached the **final round**, contributing innovative financial solutions.  
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarjeetamrat910&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetamrat910&theme=radical" width="48%" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarjeetamrat910&theme=onedark&column=6" width="80%" alt="Trophies">
-</p>
+## 📜 **Certifications**  
+📌 **Complete Machine Learning & Data Science** – *GeeksforGeeks* ([Link](#))  
+📌 **SQL (Basic) Certification** – *HackerRank* ([Link](#))  
+📌 **AWS Data Analytics Certification** – *AWS* ([Link](#))  
+📌 **Data Science Bootcamp** – *Udemy* ([Link](#))  
 
 ---
 
-### 💬 **Let's Connect**
-🔗 [**LinkedIn**](https://linkedin.com/in/amarjeet-kumar)  
-🔗 [**GitHub**](https://github.com/amarjeetamrat910)  
-📧 **Email**: amarjeetoracle@gmail.com
+## 🎯 **GitHub Stats & Activity**  
+
+![Amarjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarjeetamrat910&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetamrat910&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=amarjeetamrat910&theme=highcontrast)  
+
+---
+
+✨ **Thanks for Visiting!** 🚀 Feel free to check out my repositories and connect with me on [LinkedIn](https://linkedin.com/in/amarjeet-kumar) 🎯  
+
+---
