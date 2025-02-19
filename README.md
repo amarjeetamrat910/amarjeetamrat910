@@ -69,10 +69,11 @@ Expected Graduation: 2025</p>
 </p>
 
 <!-- 3D Contribution Graph -->
-<h3 align="center">🚀 Explore My GitHub in 3D!</h3>
+<h3 align="center">📊 GitHub Activity</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarjeetamrat910&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
+
 
 <!-- Social Links with GIF Icons -->
 <h3 align="center">🌍 Connect with Me</h3>
