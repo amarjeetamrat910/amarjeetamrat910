@@ -1,73 +1,87 @@
+<!-- Animated Header -->
+<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated Coding GIF">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Animated Image" width="600">
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&width=435&lines=Hi!+I'm+Amarjeet+Kumar;Data+Science+Enthusiast+%7C+ML+%7C+AI+%7C+Big+Data" alt="Typing SVG">
-</h1>
-
-## 🚀 **Professional Summary**
-> **Data Science enthusiast** with internship experience at **Bajaj Finserv**, specializing in **Machine Learning, Deep Learning, NLP, and LLM-RAG models**. Proficient in **Python, SQL**, and frameworks like **TensorFlow** and **Scikit-Learn**. Seeking a **Data Science Intern or Junior Data Scientist** role to solve real-world problems.
-
----
-
-## 🛠 **Skills**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-## 🔥 **Work Experience**
-### **Bajaj Finserv | Data Science Intern** *(July 29, 2024 – September 3, 2024)*  
-📌 Developed a system to **extract and process text from PDFs**, tokenized sentences using **NLTK** for better handling.
-📌 Created a **vector store** with **LangChain Chroma** & used **Google GenerativAI embeddings** for efficient retrieval.
-📌 Integrated **LLM-based Retrieval-Augmented Generation (RAG) Chain** for accurate responses.
-
----
-
-## 🎓 **Education**
-🎓 **B.Tech in Information Technology** – Chandigarh Group of Colleges, Mohali *(CGPA: 7.4 | Expected: 2025)*
-
----
-
-## 🏆 **Projects**
-🔹 **Predictive Maintenance for Industrial Systems** [(GitHub)](https://github.com/amarjeetamrat910)  
-&nbsp;&nbsp;&nbsp;✨ Achieved **98% accuracy** using **LightGBM, Random Forest, and CatBoost**.
-
-🔹 **Sentiment Analysis** [(GitHub)](https://github.com/amarjeetamrat910)  
-&nbsp;&nbsp;&nbsp;✨ Used **TextBlob & Logistic Regression**, achieving **96% accuracy with SVM cross-validation**.
-
----
-
-## 💡 **Extracurricular Activities**
-🔸 **Hackfest24 – National Level Hackathon** *(Finalist)* – Developed a **Green Credit Management System**.
-🔸 **Formidium Hackathon** *(Participant)* – Built a **Chatbot for Automated Accounting Report Generation**.
-
----
-
-## 📜 **Certifications**
-✅ **Machine Learning & Data Science – GeeksforGeeks**  
-✅ **AWS Data Analytics Certification**  
-✅ **SQL (Basic) Certification – HackerRank**  
-✅ **Data Science Bootcamp – Udemy**  
-
----
-
-## 📊 **GitHub Stats**
+<!-- Resume Details -->
+<h2 align="center">Amarjeet Kumar</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarjeetamrat910&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetamrat910&theme=radical" width="48%" alt="GitHub Streak">
+  <a href="mailto:amarjeetoracle@gmail.com">Email: amarjeetoracle@gmail.com</a> | <a href="https://linkedin.com/in/amarjeet-kumar">LinkedIn</a> | <a href="https://github.com/amarjeetamrat910">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarjeetamrat910&theme=onedark&column=6" width="80%" alt="Trophies">
+<h3>Professional Summary</h3>
+<p>
+  Data Science enthusiast with internship experience at Bajaj Finserv, specializing in machine learning, deep learning, natural language processing (NLP), and LLM-RAG models. Proficient in Python, SQL, and frameworks such as TensorFlow and Scikit-Learn. Seeking a Data Science Intern or Junior Data Scientist role to apply my technical expertise in solving real-world problems and delivering impactful results.
 </p>
 
----
+<h3>Skills Summary</h3>
+<ul>
+  <li><strong>Programming Languages/Tools:</strong> Python, SQL, Power BI, MS Excel, Tableau, Git, Jupyter Notebook, Oracle Live SQL</li>
+  <li><strong>Libraries and Frameworks:</strong> Scikit-Learn, TensorFlow, Pandas, NumPy, Matplotlib, Apache Spark (PySpark), NLTK</li>
+</ul>
 
-### 💬 **Let's Connect**
-🔗 [**LinkedIn**](https://linkedin.com/in/amarjeet-kumar)  
-🔗 [**GitHub**](https://github.com/amarjeetamrat910)  
-📧 **Email**: amarjeetoracle@gmail.com
+<h3>Work Experience</h3>
+<p><strong>Bajaj Finserv</strong><br>
+Data Science Intern<br>
+Pune, India (Onsite)<br>
+July 29, 2024 – September 3, 2024</p>
+<ul>
+  <li>Developed a system to extract and process text from PDFs and split content into manageable chunks.</li>
+  <li>Tokenized text into sentences using NLTK for better handling and analysis.</li>
+  <li>Created a vector store with langchain chroma and used Google GenerativAI embeddings for efficient document retrieval.</li>
+  <li>Configured a retriever and integrated a large language model (LLM) to generate concise answers through a Retrieval-Augmented Generation (RAG) chain.</li>
+</ul>
+
+<h3>Education</h3>
+<p><strong>Chandigarh Group of Colleges, Landran Mohali, Punjab</strong><br>
+Bachelor of Technology in Information Technology; CGPA: 7.4<br>
+Expected Graduation: 2025</p>
+
+<h3>Projects</h3>
+<ul>
+  <li><strong>Predictive Maintenance for Industrial Systems:</strong> <a href="https://github.com/amarjeetamrat910">GitHub</a></li>
+  <ul>
+    <li>Data Preprocessing: Managed data loading and preprocessing using Pandas.</li>
+    <li>Feature Selection: Applied feature selection techniques to enhance data clarity.</li>
+    <li>EDA: Performed exploratory data analysis using heatmaps.</li>
+    <li>Model Development: Built and assessed models using LightGBM (98%), Random Forest (97%), and CatBoost (97%).</li>
+  </ul>
+  <li><strong>Sentiment Analysis:</strong> <a href="https://github.com/amarjeetamrat910">GitHub</a></li>
+  <ul>
+    <li>Used TextBlob for categorizing tweets into positive, negative, or neutral sentiments.</li>
+    <li>Applied logistic regression achieving 90% accuracy.</li>
+    <li>Cross-validated model using SVM, achieving 96% accuracy.</li>
+  </ul>
+</ul>
+
+<h3>Extracurricular Activities</h3>
+<ul>
+  <li><strong>Formidium Hackathon</strong> – UI Chatbot Development, Jaipur, Rajasthan (June 22–23, 2024)</li>
+  <li><strong>Hackfest24 – National Level Hackathon</strong> – Finalist in Green Credit Management, CGC Landran (April – July 2024)</li>
+</ul>
+
+<h3>Certifications</h3>
+<ul>
+  <li>Complete Machine Learning and Data Science: GeeksforGeeks</li>
+  <li>SQL (Basic) Certification: HackerRank</li>
+  <li>AWS Data Analytics Certification: AWS</li>
+  <li>Data Science Bootcamp: Udemy</li>
+</ul>
+
+<!-- Skills Stickers -->
+<h3 align="center">Skills and Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-blue" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-blue" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/NLP-blue" alt="NLP">
+  <img src="https://img.shields.io/badge/Computer_Vision-blue" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Data_Analysis-blue" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Data_Visualization-blue" alt="Data Visualization">
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amarjeetamrat910&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetamrat910" alt="GitHub Streak">
+</p>
