@@ -10,7 +10,6 @@
 </p>
 
 <!-- Resume Details -->
-<h2 align="center">Amarjeet Kumar</h2>
 <p align="center">
   <a href="mailto:amarjeetoracle@gmail.com">Email: amarjeetoracle@gmail.com</a> | <a href="https://linkedin.com/in/amarjeet-kumar">LinkedIn</a> | <a href="https://github.com/amarjeetamrat910">GitHub</a>
 </p>
