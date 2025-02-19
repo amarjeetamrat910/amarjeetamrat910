@@ -76,7 +76,6 @@ Expected Graduation: 2025</p>
 </p>
 
 <!-- 3D Animation -->
-<h3 align="center">🚀 Explore My GitHub in 3D!</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="3D Contribution Graph">
 </p>
