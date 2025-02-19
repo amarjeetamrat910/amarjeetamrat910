@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&width=435&lines=Hi!+I'm+Amarjeet+Kumar;Data+Science+Enthusiast+%7C+ML+%7C+AI+%7C+Big+Data" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&width=435&lines=Hi!+I'm+Amarjeet+Kumar;Data Science+Enthusiast+%7C+ML+%7C+AI+%7C+Big+Data" alt="Typing SVG">
 </h1>
 
 ## 🚀 About Me
