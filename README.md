@@ -1,91 +1,87 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Amarjeet Kumar</h1>
-<h3 align="center">Passionate Data Science Enthusiast</h3>
+<!-- Animated Header -->
+<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
 <p align="center">
-  <img src="https://github.com/amarjeetamrat910/amarjeetamrat9100/blob/main/top%20image" alt="Banner Image">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Animated Image" width="600">
 </p>
 
-<!-- Profile Views Badge -->
+<!-- Resume Details -->
+<h2 align="center">Amarjeet Kumar</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarjeetamrat910&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="mailto:amarjeetoracle@gmail.com">Email: amarjeetoracle@gmail.com</a> | <a href="https://linkedin.com/in/amarjeet-kumar">LinkedIn</a> | <a href="https://github.com/amarjeetamrat910">GitHub</a>
 </p>
 
-<!-- Trophy Shelf -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amarjeetamrat910" alt="GitHub Trophy">
+<h3>Professional Summary</h3>
+<p>
+  Data Science enthusiast with internship experience at Bajaj Finserv, specializing in machine learning, deep learning, natural language processing (NLP), and LLM-RAG models. Proficient in Python, SQL, and frameworks such as TensorFlow and Scikit-Learn. Seeking a Data Science Intern or Junior Data Scientist role to apply my technical expertise in solving real-world problems and delivering impactful results.
 </p>
 
-<!-- Bio and Contact Information -->
-<!-- Bio and Contact Information -->
-<h3 align="center">About Me</h3>
+<h3>Skills Summary</h3>
+<ul>
+  <li><strong>Programming Languages/Tools:</strong> Python, SQL, Power BI, MS Excel, Tableau, Git, Jupyter Notebook, Oracle Live SQL</li>
+  <li><strong>Libraries and Frameworks:</strong> Scikit-Learn, TensorFlow, Pandas, NumPy, Matplotlib, Apache Spark (PySpark), NLTK</li>
+</ul>
+
+<h3>Work Experience</h3>
+<p><strong>Bajaj Finserv</strong><br>
+Data Science Intern<br>
+Pune, India (Onsite)<br>
+July 29, 2024 – September 3, 2024</p>
+<ul>
+  <li>Developed a system to extract and process text from PDFs and split content into manageable chunks.</li>
+  <li>Tokenized text into sentences using NLTK for better handling and analysis.</li>
+  <li>Created a vector store with langchain chroma and used Google GenerativAI embeddings for efficient document retrieval.</li>
+  <li>Configured a retriever and integrated a large language model (LLM) to generate concise answers through a Retrieval-Augmented Generation (RAG) chain.</li>
+</ul>
+
+<h3>Education</h3>
+<p><strong>Chandigarh Group of Colleges, Landran Mohali, Punjab</strong><br>
+Bachelor of Technology in Information Technology; CGPA: 7.4<br>
+Expected Graduation: 2025</p>
+
+<h3>Projects</h3>
+<ul>
+  <li><strong>Predictive Maintenance for Industrial Systems:</strong> <a href="https://github.com/amarjeetamrat910">GitHub</a></li>
+  <ul>
+    <li>Data Preprocessing: Managed data loading and preprocessing using Pandas.</li>
+    <li>Feature Selection: Applied feature selection techniques to enhance data clarity.</li>
+    <li>EDA: Performed exploratory data analysis using heatmaps.</li>
+    <li>Model Development: Built and assessed models using LightGBM (98%), Random Forest (97%), and CatBoost (97%).</li>
+  </ul>
+  <li><strong>Sentiment Analysis:</strong> <a href="https://github.com/amarjeetamrat910">GitHub</a></li>
+  <ul>
+    <li>Used TextBlob for categorizing tweets into positive, negative, or neutral sentiments.</li>
+    <li>Applied logistic regression achieving 90% accuracy.</li>
+    <li>Cross-validated model using SVM, achieving 96% accuracy.</li>
+  </ul>
+</ul>
+
+<h3>Extracurricular Activities</h3>
+<ul>
+  <li><strong>Formidium Hackathon</strong> – UI Chatbot Development, Jaipur, Rajasthan (June 22–23, 2024)</li>
+  <li><strong>Hackfest24 – National Level Hackathon</strong> – Finalist in Green Credit Management, CGC Landran (April – July 2024)</li>
+</ul>
+
+<h3>Certifications</h3>
+<ul>
+  <li>Complete Machine Learning and Data Science: GeeksforGeeks</li>
+  <li>SQL (Basic) Certification: HackerRank</li>
+  <li>AWS Data Analytics Certification: AWS</li>
+  <li>Data Science Bootcamp: Udemy</li>
+</ul>
+
+<!-- Skills Stickers -->
+<h3 align="center">Skills and Tools</h3>
 <p align="center">
-  🌟 Passionate about Machine Learning, Deep Learning, NLP, and Computer Vision<br>
-  📚 Skilled in Data Analytics, Visualization, and SQL<br>
-  📧 Contact me: <a href="mailto:amarjeetoracle@gmail.com">amarjeetoracle@gmail.com</a><br>
+  <img src="https://img.shields.io/badge/Machine_Learning-blue" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-blue" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/NLP-blue" alt="NLP">
+  <img src="https://img.shields.io/badge/Computer_Vision-blue" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Data_Analysis-blue" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Data_Visualization-blue" alt="Data Visualization">
 </p>
 
-
-<!-- Social Media Links -->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/amarjeet-kumar-a04a78185" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://kaggle.com/amarjeetkumar910" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.hackerrank.com/amarjeet_9" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/amarjeetamrat999/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" style="margin-right: 10px;" />
-  </a>
-</p>
-
-<!-- Skills and Tools with Stickers -->
-<h3 align="center"> Hard Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-blue" alt="Machine Learning" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Deep_Learning-blue" alt="Deep Learning" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Natural_Language_Processing-blue" alt="Natural Language Processing (NLP)" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Computer_Vision-blue" alt="Computer Vision" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Web_Scraping-blue" alt="Web Scraping" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Data_Analysis-blue" alt="Data Analysis" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Data_Visualization-blue" alt="Data Visualization" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Data_Mining-blue" alt="Data Mining" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Python-blue" alt="Python" style="margin-right: 10px;">
-</p>
-
-<!-- Tools and Techniques -->
-<h3 align="center">Tools and Techniques</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Analytics-green" alt="Data Analytics" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Statistical_Data_Analysis-green" alt="Statistical Data Analysis" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Time_Series_Analysis-green" alt="Time Series Analysis" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/SQL-green" alt="SQL" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Tableau-green" alt="Tableau" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Optimization_Techniques-green" alt="Optimization Techniques" style="margin-right: 10px;">
-</p>
-
-
-<h3 align="center">Soft Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Teamwork-blue" alt="Teamwork" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Written_and_Verbal_Communication-blue" alt="Written and Verbal Communication" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Leadership-blue" alt="Leadership" style="margin-right: 10px;">
-  <img src="https://img.shields.io/badge/Adaptability-blue" alt="Adaptability" style="margin-right: 10px;">
-</p>
-
-<!-- GitHub Stats and Language Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetamrat910&layout=compact" alt="Top Languages">
-</p>
-
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarjeetamrat910&show_icons=true" alt="GitHub Stats">
-</p>
-
-<!-- GitHub Contribution Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetamrat910" alt="Contribution Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetamrat910" alt="GitHub Streak">
 </p>
