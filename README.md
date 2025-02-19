@@ -63,10 +63,7 @@ Expected Graduation: 2025</p>
 </ul>
 
 <!-- GitHub Activity -->
-<h3 align="center">📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amarjeetamrat910&theme=github-dark">
-</p>
+
 
 <!-- 3D Contribution Graph -->
 <h3 align="center">📊 GitHub Activity</h3>
