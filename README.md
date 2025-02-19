@@ -1,102 +1,104 @@
-## 🚀 **Amarjeet Kumar**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amarjeet--kumar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amarjeet-kumar)  
-[![GitHub](https://img.shields.io/badge/GitHub-amarjeetamrat910-black?style=for-the-badge&logo=github)](https://github.com/amarjeetamrat910)  
-📧 Email: amarjeetoracle@gmail.com  
-📱 Mobile: +91-9102354829  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Animated Coding GIF">
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&center=true&width=435&lines=Hi!+I'm+Amarjeet+Kumar;Data+Science+Enthusiast+%7C+ML+%7C+AI+%7C+Big+Data" alt="Typing SVG">
+</h1>
+
+## 🚀 About Me
+
+**Amarjeet Kumar**  
+📌 **LinkedIn:** [linkedin.com/in/amarjeet-kumar](https://linkedin.com/in/amarjeet-kumar)  
+📌 **GitHub:** [github.com/amarjeetamrat910](https://github.com/amarjeetamrat910)  
+📌 **Email:** amarjeetoracle@gmail.com  
+📌 **Mobile:** +91-9102354829  
+
+🔹 **Data Science enthusiast** with internship experience at **Bajaj Finserv**, specializing in **Machine Learning, Deep Learning, NLP, and LLM-RAG models**.  
+🔹 Skilled in **Python, SQL, Power BI, Tableau, TensorFlow, and Scikit-Learn**.  
+🔹 Seeking **Data Science Intern / Junior Data Scientist** role to apply my expertise in solving real-world problems.  
 
 ---
 
-## 🎬 **Welcome to My GitHub!**  
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100%" height="200px">  
+## 🛠️ Skills
 
-🔍 Passionate **Data Scientist** with experience in **Machine Learning, Deep Learning, NLP, and Large Language Models (LLM-RAG)**.   
-🚀 Skilled in **Python, SQL, and Data Analytics**, eager to solve real-world problems with AI-driven solutions!  
+**Programming Languages & Tools:**  
+✔ Python, SQL, Power BI, MS Excel, Tableau, Git, Jupyter Notebook, Oracle Live SQL  
 
----
+**Libraries & Frameworks:**  
+✔ Scikit-Learn, TensorFlow, Pandas, NumPy, Matplotlib, PyTorch, Apache Spark (PySpark), NLTK  
 
-## 💡 **Technical Skills**  
-### 📌 **Programming Languages & Tools:**  
-✅ Python | SQL | Power BI | MS Excel | Tableau | Git | Jupyter Notebook | Oracle Live SQL  
+**Machine Learning & AI:**  
+✔ Supervised & Unsupervised Learning, Deep Learning, NLP, Computer Vision, LLMs  
 
-### 📌 **Libraries & Frameworks:**  
-✅ Scikit-Learn | TensorFlow | Pandas | NumPy | Matplotlib | Apache Spark (PySpark) | NLTK | LangChain  
-
-### 📌 **Machine Learning & AI:**  
-✅ Supervised & Unsupervised Learning | Deep Learning | NLP | Computer Vision | Reinforcement Learning  
-
-### 📌 **Big Data & Cloud Technologies:**  
-✅ Apache Spark | Google Cloud AI | AWS Data Analytics  
+**Big Data & Databases:**  
+✔ Apache Spark, Hadoop, MySQL, Google BigQuery  
 
 ---
 
-## 👨‍💻 **Work Experience**  
-### 🏢 **Bajaj Finserv | Data Science Intern**   
-📍 Pune, India (Onsite) | ⏳ July 29, 2024 – September 3, 2024  
+## 💼 Work Experience
 
-**Project: Retrieval-Augmented Generation (RAG) for Document Processing**  
-✅ Extracted and processed text from PDFs efficiently.  
-✅ Split long documents into manageable chunks for better processing.  
-✅ Tokenized text into sentences using **NLTK** for structured analysis.  
-✅ Built a **vector store** using **LangChain Chroma** and **Google Generative AI embeddings** for document retrieval.  
-✅ Configured a **retriever** and integrated a **Large Language Model (LLM)** to generate concise responses.  
-✅ Tested and evaluated model responses for accuracy and efficiency.  
+### **Bajaj Finserv | Data Science Intern** *(Pune, India – Onsite)*  
+🗓 **July 29, 2024 – September 3, 2024**  
+- Extracted and processed text from PDFs, splitting content into manageable chunks.  
+- Tokenized text into sentences using **NLTK** for better handling and analysis.  
+- Created a **vector store** using **LangChain Chroma** and integrated **Google Generative AI embeddings** for efficient document retrieval.  
+- Configured a **retriever** and integrated a **Large Language Model (LLM)** to generate concise answers through **Retrieval-Augmented Generation (RAG) chain**.  
+- Tested and optimized responses for improved accuracy.  
 
 ---
 
-## 📚 **Education**  
-🎓 **Bachelor of Technology (B.Tech.) in Information Technology**  
-📍 Chandigarh Group of Colleges, Landran Mohali, Punjab  
-📊 **CGPA: 7.4** | 📅 **Expected Graduation: 2025**  
+## 📚 Education
+
+🎓 **Chandigarh Group of Colleges, Landran Mohali, Punjab**  
+📖 **B.Tech. in Information Technology | CGPA: 7.4**  
+🗓 **Expected Graduation: 2025**  
 
 ---
 
-## 🚀 **Projects**  
+## 🔥 Projects
 
-### 🔹 **Predictive Maintenance for Industrial Systems** ([GitHub](#))  
-✅ **Data Preprocessing:** Loaded and cleaned large CSV datasets using Pandas.  
-✅ **Feature Engineering:** Handled missing values and encoded categorical variables.  
-✅ **Exploratory Data Analysis (EDA):** Used correlation heatmaps and visualization techniques.  
-✅ **Model Development:** Implemented **LightGBM, Random Forest, and CatBoost** models.  
-✅ **Results:** Achieved **98% accuracy** using LightGBM, outperforming other models.  
+### **🔧 Predictive Maintenance for Industrial Systems**  
+📌 **GitHub Repo:** [Link](#)  
+- **Data Preprocessing:** Loaded CSV data, handled missing values, and encoded categorical variables.  
+- **Feature Selection:** Applied feature selection techniques to remove irrelevant columns, improving data clarity.  
+- **EDA (Exploratory Data Analysis):** Used **heatmaps** to explore and understand feature correlations.  
+- **Model Development:** Built **LightGBM, Random Forest, and CatBoost** models for multi-output classification.  
+- **Results:** Achieved **98% accuracy (LightGBM), 97% (Random Forest), and 97% (CatBoost)**.  
 
-### 🔹 **Sentiment Analysis of Tweets** ([GitHub](#))  
-✅ **Data Collection:** Scraped and preprocessed Twitter data.  
-✅ **Sentiment Categorization:** Classified tweets into **positive, negative, or neutral** using TextBlob.  
-✅ **Modeling:** Used **Logistic Regression** and **Support Vector Machines (SVM)** for prediction.  
-✅ **Results:** Achieved **90% accuracy with Logistic Regression** and **96% using SVM with cross-validation**.  
-
----
-
-## 🏆 **Hackathons & Competitions**  
-
-### 🎯 **Formidium Hackathon | Participant**  
-📍 Jaipur, Rajasthan | 📅 **June 22–23, 2024**  
-✅ **Project:** Developed an AI-powered chatbot for **automated accounting report generation** using an open-source **LLM model**.  
-✅ **Impact:** Improved **efficiency** and **user experience** by automating financial document processing.  
-
-### 🎯 **Hackfest24 – National Level Hackathon | Finalist**  
-📍 CGC Landran, Punjab | 📅 **April 24 – July 2024**  
-✅ **Project:** Designed a **Green Credit Management System** to promote sustainable credit policies.  
-✅ **Achievement:** Reached the **final round**, contributing innovative financial solutions.  
+### **📊 Sentiment Analysis**  
+📌 **GitHub Repo:** [Link](#)  
+- **Data Collection:** Processed and cleaned **tweets** for sentiment analysis.  
+- **Sentiment Categorization:** Used **TextBlob** to classify sentiments as **positive, negative, or neutral**.  
+- **Modeling:** Applied **Logistic Regression**, achieving **90% accuracy**.  
+- **Model Evaluation:** Used **SVM cross-validation**, achieving **96% accuracy**.  
 
 ---
 
-## 📜 **Certifications**  
-📌 **Complete Machine Learning & Data Science** – *GeeksforGeeks* ([Link](#))  
-📌 **SQL (Basic) Certification** – *HackerRank* ([Link](#))  
-📌 **AWS Data Analytics Certification** – *AWS* ([Link](#))  
-📌 **Data Science Bootcamp** – *Udemy* ([Link](#))  
+## 🏆 Hackathons & Competitions
+
+### **🏅 Formidium Hackathon | Participant** *(Jaipur, Rajasthan – June 22–23, 2024)*  
+- Designed and developed a **UI chatbot** using an **open-source LLM model** to automate accounting report generation.  
+- Improved **efficiency and user experience** through intelligent chatbot integration.  
+
+### **🏅 Hackfest24 – National Level Hackathon | Finalist** *(CGC Landran, Punjab – April 24 – July 2024)*  
+- Developed a **Green Credit Management System**, reaching the final round.  
+- Designed a sustainable credit system for **eco-friendly financial transactions**.  
 
 ---
 
-## 🎯 **GitHub Stats & Activity**  
+## 📜 Certifications
 
-![Amarjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarjeetamrat910&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjeetamrat910&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=amarjeetamrat910&theme=highcontrast)  
-
----
-
-✨ **Thanks for Visiting!** 🚀 Feel free to check out my repositories and connect with me on [LinkedIn](https://linkedin.com/in/amarjeet-kumar) 🎯  
+✔ **Complete Machine Learning & Data Science** – [GeeksforGeeks](#)  
+✔ **SQL (Basic) Certification** – [HackerRank](#)  
+✔ **AWS Data Analytics Certification** – [AWS](#)  
+✔ **Data Science Bootcamp** – [Udemy](#)  
 
 ---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amarjeet-kumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/amarjeetamrat910"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
